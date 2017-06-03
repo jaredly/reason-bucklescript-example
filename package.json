@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "bsb -make-world -w"
+  },
+  "dependencies": {
+    "bs-platform": "^1.7.4",
+    "webpack": "^2.6.1"
+  }
+}
