@@ -1,6 +1,9 @@
 {
   "scripts": {
-    "start": "bsb -make-world -w"
+    "bs": "bsb -make-world",
+    "webpack": "webpack",
+    "bs:watch": "bsb -make-world -w",
+    "webpack:watch": "webpack -w"
   },
   "dependencies": {
     "bs-platform": "^1.7.4",
